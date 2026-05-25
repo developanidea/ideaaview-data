@@ -1,26 +1,26 @@
 [
   {
-    "title": "Big Buck Bunny (HLS Stream)",
-    "category": "Animation",
-    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Main_Poster.jpg",
-    "description": "A lovable, giant rabbit plots a comical revenge against three woodland pests in this beautifully rendered open-source animation, served over a high-velocity live stream channel.",
+    "title": "Night of the Living Dead (1968)",
+    "category": "Horror / Classics",
+    "url": "https://archive.org/embed/night-of-the-living-dead_1968",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Night_of_the_Living_Dead_poster.jpg",
+    "description": "The definitive, legendary 1968 black-and-white cinematic horror masterpiece directed by George A. Romero that changed the genre forever.",
     "exclusive_perk": "False"
   },
   {
-    "title": "Sintel Trailer (HD Stream)",
+    "title": "Sintel (Animated Short)",
     "category": "Fantasy",
-    "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-    "poster": "https://i.ebayimg.com/00/s/MTUwMFgxMDA1/z/m~wAAOSwn7JYEDEN/$_57.JPG?set_id=8800005007",
-    "description": "An intense, high-end fantasy short tracking a lone warrior named Sintel on an emotional quest across a dangerous, sweeping fantasy landscape.",
+    "url": "https://archive.org/embed/Sintel",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster_v2.jpg",
+    "description": "An emotional independent open-source fantasy film tracking a lonely, fierce warrior named Sintel searching for her captive baby dragon.",
     "exclusive_perk": "True"
   },
   {
-    "title": "Tears of Steel (VFX Stream)",
+    "title": "Tears of Steel (Sci-Fi VFX)",
     "category": "Sci-Fi",
-    "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+    "url": "https://archive.org/embed/TearsOfSteel",
     "poster": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tears_of_Steel_poster.jpg",
-    "description": "A cinema-grade science fiction film showcasing advanced visual effects, massive mechanical robotic combat, and a sleek cyberpunk dystopian world aesthetic.",
+    "description": "A breathtaking science fiction project tracking a team of soldiers and scientists in a futuristic, dystopian cyberpunk setting.",
     "exclusive_perk": "True"
   }
 ]
