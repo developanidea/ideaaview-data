@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Tears of Steel",
+    "category": "Sci-Fi / VFX",
+    "url": "https://mango.blender.org/wp-content/uploads/2012/09/tears_of_steel_720p.mkv",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tears_of_Steel_poster.jpg",
+    "description": "An elite open-source sci-fi short film featuring high-end cinematic visual effects, giant futuristic combat robots, and an intense dystopian setup.",
+    "exclusive_perk": "True"
+  },
+  {
+    "title": "Night of the Living Dead",
+    "category": "Horror / Classics",
+    "url": "https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Night_of_the_Living_Dead_poster.jpg",
+    "description": "The absolute legendary 1968 black-and-white cinematic masterpiece that completely revolutionized the horror genre and zombie lore forever.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "Sintel",
+    "category": "Fantasy / Animation",
+    "url": "https://download.blender.org/durian/movies/Sintel.2010.720p.mkv",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster_v2.jpg",
+    "description": "A breathtaking independent fantasy film following a fierce, lonely warrior named Sintel as she tracks down a captive baby dragon across a dangerous world.",
+    "exclusive_perk": "True"
+  }
+]
