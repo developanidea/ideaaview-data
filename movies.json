@@ -1,26 +1,16 @@
 [
   {
-    "title": "Big Buck Bunny (Direct Node)",
-    "category": "Animation",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "poster": "https://s3.amazonaws.com/criterion-production/films/5d825de608ea6993b42be3c972bab02f/O4mn7lXmAaCzdLtUmSqBHAKHJBQW3P_original.jpg",
-    "description": "A classic, beautifully rendered animation tracking a giant, lovable rabbit as he plots a comical revenge against three bullying woodland pests.",
+    "title": "Night of the Living Dead",
+    "category": "Horror",
+    "tmdb_id": "10331",
+    "description": "The definitive, legendary 1968 black-and-white cinematic horror masterpiece directed by George A. Romero.",
     "exclusive_perk": "False"
   },
   {
-    "title": "Elephants Dream (Direct Node)",
-    "category": "Sci-Fi",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5NTUzNTgzMF5BMl5BanBnXkFtZTcwODcwMzQ5Mw@@._V1_.jpg",
-    "description": "The world's first completely open-source 3D animated cinematic short film, following two characters exploring a massive, strange mechanical world.",
+    "title": "Sintel",
+    "category": "Fantasy",
+    "tmdb_id": "65158",
+    "description": "An emotional independent fantasy film following a lonely warrior tracking her captive baby dragon.",
     "exclusive_perk": "True"
-  },
-  {
-    "title": "For Bigger Blazes (Direct Node)",
-    "category": "Action / Tech",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "poster": "https://m.media-amazon.com/images/I/716Tq0Jc5CL.jpg",
-    "description": "A high-bitrate, ultra-responsive digital video stream node optimized for testing local application canvas rendering speeds and player stability.",
-    "exclusive_perk": "False"
   }
 ]
