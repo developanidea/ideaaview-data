@@ -1,26 +1,26 @@
 [
   {
-    "title": "Big Buck Bunny",
+    "title": "Big Buck Bunny (HLS Stream)",
     "category": "Animation",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Main_Poster.jpg",
-    "description": "A large and lovable rabbit deals with three bullying rodents in this classic, beautifully rendered open-source animation.",
+    "description": "A lovable, giant rabbit plots a comical revenge against three woodland pests in this beautifully rendered open-source animation, served over a high-velocity live stream channel.",
     "exclusive_perk": "False"
   },
   {
-    "title": "Elephants Dream",
-    "category": "Sci-Fi",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_Anb_Poster.jpg",
-    "description": "The world's first open-source 3D animated short film, following two characters exploring a strange, mechanical world.",
+    "title": "Sintel Trailer (HD Stream)",
+    "category": "Fantasy",
+    "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster_v2.jpg",
+    "description": "An intense, high-end fantasy short tracking a lone warrior named Sintel on an emotional quest across a dangerous, sweeping fantasy landscape.",
     "exclusive_perk": "True"
   },
   {
-    "title": "For Bigger Blazes",
-    "category": "Action / Tech",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Chromecast_logo_2014.svg",
-    "description": "A high-bitrate video stream perfect for testing player performance and low-latency rendering cycles.",
-    "exclusive_perk": "False"
+    "title": "Tears of Steel (VFX Stream)",
+    "category": "Sci-Fi",
+    "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tears_of_Steel_poster.jpg",
+    "description": "A cinema-grade science fiction film showcasing advanced visual effects, massive mechanical robotic combat, and a sleek cyberpunk dystopian world aesthetic.",
+    "exclusive_perk": "True"
   }
 ]
