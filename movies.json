@@ -1,16 +1,162 @@
 [
   {
-    "title": "Night of the Living Dead",
-    "category": "Horror",
+    "title": "Night of the Living Dead (1968)",
+    "category": "Zombie Horror",
     "tmdb_id": "10331",
-    "description": "The definitive, legendary 1968 black-and-white cinematic horror masterpiece directed by George A. Romero.",
+    "poster": "https://s3.amazonaws.com/criterion-production/films/5d825de608ea6993b42be3c972bab02f/O4mn7lXmAaCzdLtUmSqBHAKHJBQW3P_original.jpg",
+    "description": "The definitive, legendary black-and-white cinematic zombie masterpiece directed by George A. Romero that birthed the modern survival horror genre.",
     "exclusive_perk": "False"
   },
   {
-    "title": "Sintel",
-    "category": "Fantasy",
-    "tmdb_id": "65158",
-    "description": "An emotional independent fantasy film following a lonely warrior tracking her captive baby dragon.",
+    "title": "White Zombie (1932)",
+    "category": "Zombie Horror",
+    "tmdb_id": "28033",
+    "poster": "https://m.media-amazon.com/images/Y/I/719hVpP9v9L._AC_UF894,1000_QL80_.jpg",
+    "description": "The first feature-length zombie film ever made, tracking a young woman in Haiti transformed into a mindless thrall by a ruthless plantation owner.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "The Last Man on Earth (1964)",
+    "category": "Zombie Horror",
+    "tmdb_id": "21151",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MzgxOTcyM15BMl5BanBnXkFtZTcwMzk0NDYyMQ@@._V1_.jpg",
+    "description": "Dr. Robert Morgan is the lone, immune survivor of a devastating global plague that has transformed humanity into nocturnal zombie creatures.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "King of the Zombies (1941)",
+    "category": "Zombie Horror",
+    "tmdb_id": "40043",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzY2NzY5NF5BMl5BanBnXkFtZTcwNTI0MDIyMQ@@._V1_.jpg",
+    "description": "During a raging storm, a pilot crash-lands a plane on a mysterious island governed by a sinister doctor performing occult experiments.",
+    "exclusive_perk": "True"
+  },
+  {
+    "title": "Revolt of the Zombies (1936)",
+    "category": "Zombie Horror",
+    "tmdb_id": "43015",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTkyMTYzMl5BMl5BanBnXkFtZTcwODQ0MTMyMQ@@._V1_.jpg",
+    "description": "An expedition in Cambodia encounters an ancient oriental priest who possesses the dark, arcane power to turn soldiers into unyielding thralls.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "Plan 9 from Outer Space (1959)",
+    "category": "Space Opera",
+    "tmdb_id": "10585",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI0MjA1MDY5OV5BMl5BanBnXkFtZTcwMTM1MjM1MA@@._V1_.jpg",
+    "description": "Extraterrestrial invaders launch a shocking scheme to conquer Earth by reanimating the deceased dead in this legendary sci-fi cult classic.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "First Spaceship on Venus (1960)",
+    "category": "Space Opera",
+    "tmdb_id": "28163",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNjEwNDAzM15BMl5BanBnXkFtZTcwNzY3NTM1MA@@._V1_.jpg",
+    "description": "When an alien magnetic data spool is uncovered on Earth, an international astronaut fleet voyages to Venus, discovering a dead civilization.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "The Phantom Planet (1961)",
+    "category": "Space Opera",
+    "tmdb_id": "28639",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMjI0OTU4NV5BMl5BanBnXkFtZTcwNjAyMzQ1MQ@@._V1_.jpg",
+    "description": "An astronaut crash-lands onto an invisible asteroid, where a bizarre atmosphere shrinks him down to the size of its tiny alien inhabitants.",
+    "exclusive_perk": "True"
+  },
+  {
+    "title": "Cosmic Voyage (1936)",
+    "category": "Space Opera",
+    "tmdb_id": "136932",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxNzE0MjAzM15BMl5BanBnXkFtZTgwNTU5Njg4MTE@._V1_.jpg",
+    "description": "An epic vintage science fiction space journey plotting humanity's first monumental rocket-powered voyage directly to the lunar surface.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "Killers from Space (1954)",
+    "category": "Space Opera",
+    "tmdb_id": "28585",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMjk4OTI1MV5BMl5BanBnXkFtZTgwNTU5NTE0MTE@._V1_.jpg",
+    "description": "A nuclear scientist is abducted by big-eyed alien invaders who intend to wipe out humanity using giant mutated insects and animals.",
+    "exclusive_perk": "True"
+  },
+  {
+    "title": "The Fast and the Furious (1954)",
+    "category": "Action / Thriller",
+    "tmdb_id": "42617",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3MTc5NTI2M15BMl5BanBnXkFtZTcwMTA5MDIyMQ@@._V1_.jpg",
+    "description": "A framed fugitive breaks out of prison, breaks for the border in a high-speed sports car, and gets tangled up with a racing tournament.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "Charade (1963)",
+    "category": "Action / Thriller",
+    "tmdb_id": "4808",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTEyMTY1MDk3Ml5BMl5BanBnXkFtZTgwNTU5Njg3MTE@._V1_.jpg",
+    "description": "Romance and suspense unfold in Paris as a young woman is tracked by dangerous criminals hunting a massive fortune hidden by her late husband.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "D.O.A. (1949)",
+    "category": "Action / Thriller",
+    "tmdb_id": "19409",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NTYzMDQ0NF5BMl5BanBnXkFtZTcwOTY4NDYyMQ@@._V1_.jpg",
+    "description": "A frantic accountant arrives in Los Angeles to discover he has been poisoned with a slow-acting toxin, triggering a desperate race to find his killer.",
+    "exclusive_perk": "True"
+  },
+  {
+    "title": "The Most Dangerous Game (1932)",
+    "category": "Action / Thriller",
+    "tmdb_id": "19803",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2ODQzMjY3MV5BMl5BanBnXkFtZTcwNzY3MzQyMQ@@._V1_.jpg",
+    "description": "A maniacal hunting enthusiast traps a group of shipwreck survivors on his private island fortress, turning them into targets for his sport.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "The Hitch-Hiker (1953)",
+    "category": "Action / Thriller",
+    "tmdb_id": "28162",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmMyNGExMDktYWNlMC00ZDllLTg3MGItYjc3MWY4NjNhZjE3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+    "description": "Two friends on a fishing trip are held hostage by a desperate, psychopathic serial killer hitchhiking along the roads of Baja California.",
+    "exclusive_perk": "True"
+  },
+  {
+    "title": "The General (1926)",
+    "category": "Classics",
+    "tmdb_id": "961",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmI1YmFjZTYtOWNlYi00YWZlLTk3MWMtY2Y0YmJiYWU2YWFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "description": "Buster Keaton stars in this legendary silent film tracking a brave locomotive engineer chasing down enemy agents who hijacked his beloved train.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "His Girl Friday (1940)",
+    "category": "Classics",
+    "tmdb_id": "3085",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDU2MjUyNzg2Nl5BMl5BanBnXkFtZTgwNjM5Njg4MTE@._V1_.jpg",
+    "description": "A fast-talking newspaper editor uses every underhanded trick in the book to keep his top reporter ex-wife from leaving the journalism business.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "Nosferatu (1922)",
+    "category": "Classics",
+    "tmdb_id": "653",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAxYjEyMTctZTg3Ni00MGFlLTgyMDAtNTA0YjhhNDVlNmZlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "description": "The foundational vampire cinema masterpiece tracking the eerie, gaunt Count Orlok as he moves from Transylvania, bringing a dark plague of rats.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "House on Haunted Hill (1959)",
+    "category": "Classics",
+    "tmdb_id": "18405",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3MDcxMzI1NV5BMl5BanBnXkFtZTcwNTI2OTM1MQ@@._V1_.jpg",
+    "description": "An eccentric millionaire offers five strangers a huge cash reward if they can survive an entire lock-in night inside his eerie, traps-filled mansion.",
+    "exclusive_perk": "False"
+  },
+  {
+    "title": "The Phantom of the Opera (1925)",
+    "category": "Classics",
+    "tmdb_id": "13425",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDM1YmNhYWUtNzFmMC00M2RiLTk0Y2ItNzI1YTk2NDY2YTIwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "description": "Lon Chaney stars as the masked, disfigured operatic composer haunting the catacombs of the Paris Opera House while tracking a young singer.",
     "exclusive_perk": "True"
   }
 ]
